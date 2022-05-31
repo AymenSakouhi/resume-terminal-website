@@ -31,6 +31,16 @@ social = [
   "<br>"
 ];
 
+projectsList = [
+  "<br>",
+  '1.       <a href="' + 'https://github.com/AymenSakouhi/rtk-sixt' + '" target="_blank">Redux Toolkit + Typescript' + "</a>",
+  '2.       <a href="' + 'https://github.com/AymenSakouhi/iu-webhook' + '" target="_blank">Salesforce Webhook Journey App' + "</a>",
+  '3.       <a href="' + 'https://github.com/AymenSakouhi/todolistapp' + '" target="_blank">React ToDoList App' + "</a>",
+  '4.       <a href="' + 'https://github.com/AymenSakouhi/ajaxExample' + '" target="_blank">Blog Node App' + "</a>",
+  '4.       <a href="' + 'https://github.com/AymenSakouhi/' + '" target="_blank">More...' + "</a>",
+  "<br>"
+];
+
 secret = [
   "<br>",
   '<span class="command">sudo</span>           Only use if you\'re admin',

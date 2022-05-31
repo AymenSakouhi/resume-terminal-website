@@ -106,7 +106,7 @@ function commander(cmd) {
       pw = true;
       break;
     case "projects":
-      loopLines(projects, "color2 margin", 80);
+      loopLines(projectsList, "color2 margin", 80);
       break;
     case "password":
       addLine("<span class=\"inherit\"> Lol! You're joking, right? You\'re gonna have to try harder than that!😂</span>", "error", 100);
