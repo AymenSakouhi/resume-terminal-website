@@ -33,6 +33,7 @@ social = [
 
 projectsList = [
   "<br>",
+  '         Click on the project to browse the files' ,
   '1.       <a href="' + 'https://github.com/AymenSakouhi/rtk-sixt' + '" target="_blank">Redux Toolkit + Typescript' + "</a>",
   '2.       <a href="' + 'https://github.com/AymenSakouhi/iu-webhook' + '" target="_blank">Salesforce Webhook Journey App' + "</a>",
   '3.       <a href="' + 'https://github.com/AymenSakouhi/todolistapp' + '" target="_blank">React ToDoList App' + "</a>",
