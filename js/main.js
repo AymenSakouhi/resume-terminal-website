@@ -150,6 +150,10 @@ function commander(cmd) {
       addLine("Opening GitHub...", "color2", 0);
       newTab(github);
       break;
+    case "resume" || "Resume":
+      addLine("Opening Resume...", "color2", 0);
+      newTab(resume);
+      break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
       break;

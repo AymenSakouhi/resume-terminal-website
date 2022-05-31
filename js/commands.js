@@ -4,6 +4,7 @@ var linkedin = "https://www.linkedin.com/in/sakouhiaymen/";
 var instagram = "https://www.instagram.com/rodndjok/";
 var github = "https://github.com/AymenSakouhi";
 var email = 'mailto:aymenmarketer@gmail.com';
+var resume = '/files/Aymen-Sakouhi-FSWD.pdf'
 
 whois = [
   "<br>",
@@ -58,6 +59,7 @@ help = [
   "<br>",
   '<span class="command">whois</span>          Who is Aymen?',
   '<span class="command">whoami</span>         Who are you?',
+  '<span class="command">resume</span>         Download my resume',
   '<span class="command">video</span>          View YouTube video',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">secret</span>         Find the password',
